@@ -30,14 +30,14 @@ To prepare datasets in [ELEVATER benchmark](https://github.com/Computer-Vision-i
 
 To prepare ImageNet-1K dataset, please follow [DATA.md](https://github.com/microsoft/UniCL/blob/main/DATA.md).
 
-To prepare Conceptual Captions dataset, YYCC or other datasets, please follow [this instruction](https://github.com/microsoft/UniCL/blob/main/DATA.md).
+To prepare Conceptual Captions dataset, YYCC or other datasets, please follow [this instruction](https://github.com/mlfoundations/open_clip#data).
 
 To see some examples of csv format dataset for UniCL, please check [this page](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP/tree/master/data).
 
 
 ### Train UniCL
 
-Please follow [this instruction](https://github.com/Computer-Vision-in-the-Wild/Elevater_Toolkit_IC).
+Please follow [this instruction](https://github.com/mlfoundations/open_clip#training-clip).
 
 You can specify the loss function with `--loss UniCL` or `--loss CLIP`.
 
