@@ -35,10 +35,12 @@ To prepare Conceptual Captions dataset, YYCC or other datasets, please follow [t
 
 After downloading your datasets to `./data/` folder, you need to create two csv files of the training and testing sets and save them to `./data/`. The format of csv/tsv file is shown as follows (please also check the examples of csv file [here](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP/tree/master/data)):
 
-| filepath  | title | labels |
-| :-------------: | :-------------: | | :-------------: |
-| ./cifar_10_20211007/train/1/2519.png  |  a black and white photo of a automobile.  | 1 |
-| ./cifar_10_20211007/train/6/449.png  | a bad photo of the frog.  | 6 |
+
+| filepath | title | labels 
+| :----: | :---: | :---: 
+| ./cifar_10_20211007/train/1/2519.png | a black and white photo of a automobile. | 1 
+| ./cifar_10_20211007/train/6/449.png | a bad photo of the frog. | 6 
+
 
 Note: right now, you need to create the csv file offline. We are working on implementing a method to automatically do this. You can use the [examples](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP/tree/master/data) to run a 50-shots cifar-10 image classification datasets.
 
@@ -100,7 +102,7 @@ To use the evaluation method in ELEVATER, you first need to specify `--eval_type
 
 Right now, ELEVATER supports 20 datasets. Make sure that your specified dataset name is one of the followings: `food-101`, `oxford-iiit-pets`, `resisc45_clip`, `mnist`, `kitti-distance`, `oxford-flower-102`, `gtsrb`, `cifar-100`, `patch-camelyon`, `stanford-cars`, `fgvc-aircraft-2013b-variants102`, `fer-2013`, `rendered-sst2`, `dtd`, `country211`, `cifar-10`, `caltech-101`, `eurosat_clip`, `hateful-memes`, `voc-2007-classification`.
 
-You can customize your dataset by adding new templates and label names to `src/datasets/prompts.py` and specify your customized dataset name by `--val_dataset <your dataset name>`.
+You can customize your own dataset by adding new templates and label names to `src/datasets/prompts.py` and specify your customized dataset name by `--val_dataset <your dataset name>`.
 
 To only evaluate but not to train, you can just ignore adding `--train-data`.
 
@@ -109,7 +111,7 @@ Right now, this repo does not support adding external knowledge ([K-LITE](https:
 
 ## Citation
 
-If you find this repo useful to your project, please consider to cite UniCL or/ and ELEVATER with the folling bibs:
+If you find this repo useful to your project, please consider to cite UniCL or/ and ELEVATER with the following bibs:
 
 ```bibtex
 @misc{yang2022unified,
