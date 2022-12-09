@@ -78,7 +78,9 @@ To train the UniCL using **SLURM**, you may run `bash run.sh`. This also support
 
 This repo also supports evaluation on downstream Image Classification dataset in [ELEVATER benchmark](https://github.com/Computer-Vision-in-the-Wild/Elevater_Toolkit_IC). 
 
-To use the evaluation method in ELEVATER, you first need to specify `--eval_type elevater`. Then, specify `--metrics` for one of the four types of metrics: `accuracy`, `11point_mAP`, `roc_auc` and `mean-per-class`; and specify the evaluation dataset, e.g. `--val_dataset cifar-10`. Make sure that your specified dataset name is one of the followings: `food-101`, `oxford-iiit-pets`, `resisc45_clip`, `mnist`, `kitti-distance`, `oxford-flower-102`, `gtsrb`, `cifar-100`, `patch-camelyon`, `stanford-cars`, `fgvc-aircraft-2013b-variants102`, `fer-2013`, `rendered-sst2`, `dtd`, `country211`, `cifar-10`, `caltech-101`, `eurosat_clip`, `hateful-memes`, `voc-2007-classification`.
+To use the evaluation method in ELEVATER, you first need to specify `--eval_type elevater`. Then, specify `--metrics` for one of the four types of metrics: `accuracy`, `11point_mAP`, `roc_auc` and `mean-per-class`; and specify the evaluation dataset, e.g. `--val_dataset cifar-10`. 
+
+Make sure that your specified dataset name is one of the followings: `food-101`, `oxford-iiit-pets`, `resisc45_clip`, `mnist`, `kitti-distance`, `oxford-flower-102`, `gtsrb`, `cifar-100`, `patch-camelyon`, `stanford-cars`, `fgvc-aircraft-2013b-variants102`, `fer-2013`, `rendered-sst2`, `dtd`, `country211`, `cifar-10`, `caltech-101`, `eurosat_clip`, `hateful-memes`, `voc-2007-classification`.
 
 You can customize your dataset by adding new templates and label names to `datasets/prompts.py` and specify your customized dataset name by `--val_dataset <your dataset name>`.
 
