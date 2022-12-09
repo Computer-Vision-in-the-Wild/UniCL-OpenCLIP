@@ -36,7 +36,7 @@ To prepare Conceptual Captions dataset, YYCC or other datasets, please follow [t
 After downloading your datasets to `./data/` folder, you need to create two csv files of the training and testing sets and save them to `./data/`. The format of csv/tsv file is shown as follows (please also check the examples of csv file [here](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP/tree/master/data)):
 
 | filepath  | title | labels |
-| :-------------: | :-------------: |
+| :-------------: | :-------------: | | :-------------: |
 | ./cifar_10_20211007/train/1/2519.png  |  a black and white photo of a automobile.  | 1 |
 | ./cifar_10_20211007/train/6/449.png  | a bad photo of the frog.  | 6 |
 
@@ -48,7 +48,7 @@ To use UniCL loss, you must have `labels` column whose type is `int (number)` in
 
 - Specify the loss function you need by setting `--loss UniCL` or `--loss CLIP`.
 - Specify the csv information used to prepare dataloader: `--csv-img-key filepath`, `--csv-caption-key title` and `--csv-label-key labels` represents the column names of image path, corresponding texts and labels.
-- Specify evaluation metrics for downstream image classification tasks: if you want to use metrics function introduced in [ELEVATER](https://github.com/Computer-Vision-in-the-Wild/Elevater_Toolkit_IC), specify the evaluation type `--eval_type elevater`, the metrics function `--metrics accuracy`, and the evaluation dataset name `--val_dataset cifar-10`. The details for evaluation is discussed [here]. If you plan to use UniCL to train downstream image classification tasks, we strongly recommend you to use ELEVATER method to evaluate your model.
+- Specify evaluation metrics for downstream image classification tasks: if you want to use metrics function introduced in [ELEVATER](https://github.com/Computer-Vision-in-the-Wild/Elevater_Toolkit_IC), specify the evaluation type `--eval_type elevater`, the metrics function `--metrics accuracy`, and the evaluation dataset name `--val_dataset cifar-10`. The details for evaluation is discussed [here](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP#evaluate). If you plan to use UniCL to train downstream image classification tasks, we strongly recommend you to use ELEVATER method to evaluate your model.
 
 We provide an example for you to run a 50-shots cifar-10 image classification task, you can first download cifar-10 dataset to `./data/` following [this link](https://github.com/Computer-Vision-in-the-Wild/DataDownload), unzip the downloaded dataset, then run the following single-process running code:
 
