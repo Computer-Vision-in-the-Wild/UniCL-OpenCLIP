@@ -36,7 +36,7 @@ To prepare Conceptual Captions dataset, YYCC or other datasets, please follow [t
 After downloading your datasets to `./data/` folder, you need to create two csv files of the training and testing sets and save them to `./data/`. The format of csv/tsv file is shown as follows (please also check the examples of csv file [here](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP/tree/master/data)):
 
 | filepath  | title | labels |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 | ./cifar_10_20211007/train/1/2519.png  |  a black and white photo of a automobile.  | 1 |
 | ./cifar_10_20211007/train/6/449.png  | a bad photo of the frog.  | 6 |
 
