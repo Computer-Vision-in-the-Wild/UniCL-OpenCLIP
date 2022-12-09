@@ -4,7 +4,7 @@ This is an open source implementation of Microsoft's UniCL:
 
 ["**Unifiled Contrastive Learning in Image-Text-Label Space. CVPR 2022**"](https://arxiv.org/abs/2204.03610) by [Jianwei Yang*](https://jwyang.github.io/), [Chunyuan Li*](https://chunyuan.li/), [Pengchuan Zhang*](https://pzzhang.github.io/pzzhang/), [Bin Xiao*](https://www.microsoft.com/en-us/research/people/bixi/), [Ce Liu](http://people.csail.mit.edu/celiu/), [Lu Yuan](https://scholar.google.com/citations?user=k9TsUVsAAAAJ&hl=en) and [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjfgao%2F).
 
-The codebased is forked from [open_clip](https://github.com/mlfoundations/open_clip).
+This codebase is forked from [open_clip](https://github.com/mlfoundations/open_clip).
 
 ## Introduction
 <p align="center">
@@ -32,7 +32,7 @@ To prepare ImageNet-1K dataset, please follow [DATA.md](https://github.com/micro
 
 To prepare Conceptual Captions dataset, YYCC or other datasets, please follow [this instruction](https://github.com/microsoft/UniCL/blob/main/DATA.md).
 
-To see some examples of csv format dataset for UniCL, please check [this page]().
+To see some examples of csv format dataset for UniCL, please check [this page](https://github.com/Computer-Vision-in-the-Wild/UniCL-OpenCLIP/tree/master/data).
 
 
 ### Train UniCL
@@ -72,7 +72,14 @@ python -m training.main \
 
 **SLURM**
 
-To train the UniCL using **SLURM**, you may run `bash run.sh`. This also supports multi-gpu running.
+To train the UniCL using **SLURM**, you may run 
+
+```
+cd src
+bash run.sh
+```
+
+This also supports multi-gpu running.
 
 ### Evaluate
 
@@ -82,7 +89,7 @@ To use the evaluation method in ELEVATER, you first need to specify `--eval_type
 
 Make sure that your specified dataset name is one of the followings: `food-101`, `oxford-iiit-pets`, `resisc45_clip`, `mnist`, `kitti-distance`, `oxford-flower-102`, `gtsrb`, `cifar-100`, `patch-camelyon`, `stanford-cars`, `fgvc-aircraft-2013b-variants102`, `fer-2013`, `rendered-sst2`, `dtd`, `country211`, `cifar-10`, `caltech-101`, `eurosat_clip`, `hateful-memes`, `voc-2007-classification`.
 
-You can customize your dataset by adding new templates and label names to `datasets/prompts.py` and specify your customized dataset name by `--val_dataset <your dataset name>`.
+You can customize your dataset by adding new templates and label names to `src/datasets/prompts.py` and specify your customized dataset name by `--val_dataset <your dataset name>`.
 
 To only evaluate but not to train, you can just ignore adding `--train-data`.
 

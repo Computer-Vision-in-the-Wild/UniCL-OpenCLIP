@@ -3,7 +3,7 @@ export DIR="$(dirname "$(pwd)")"
 source activate open_clip
 export PYTHONPATH=${PYTHONPATH}:${DIR}
 
-export base_path="./"
+export base_path="../data/"
 export train_data="${base_path}cifar-10-rand_2-shot_50.csv"  # change to your path to data
 export val_data="${base_path}test_cifar-10.csv"  # change to your path to data
 export val_dataset="cifar-10"
