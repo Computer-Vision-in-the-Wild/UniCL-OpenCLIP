@@ -84,7 +84,7 @@ Make sure that your specified dataset name is one of the followings: `food-101`,
 
 You can customize your dataset by adding new templates and label names to `datasets/prompts.py` and specify your customized dataset name by `--val_dataset <your dataset name>`.
 
-To only evaluate but not to train, do can just ignore adding `--train-data`.
+To only evaluate but not to train, you can just ignore adding `--train-data`.
 
 Right now, this repo does not support adding external knowledge ([K-lite](https://github.com/Computer-Vision-in-the-Wild/klite)), and not support multi-label dataset `voc-2007-classification`. We are working on these!
 
