@@ -21,7 +21,7 @@ We make the comparisons between UniCL with coventional learning methods below:
 
 ## Getting Started
 
-### Installation and Data Preparation
+### Installation
 Please follow [open_clip](https://github.com/mlfoundations/open_clip) for setting up environment, downloading datasets.
 
 ### Data preparation
@@ -44,7 +44,7 @@ You can specify the loss function with `--loss UniCL` or `--loss CLIP`.
 **Single-process running code**
 
 ```
--m training.main \
+python -m training.main \
   --train-data "/path/to/train_data.csv" \
     --val-data "/path/to/test_data.csv"  \
     --val_dataset "cifar-10" \
@@ -87,7 +87,7 @@ To only evaluate but not to train, do can just ignore adding `--train-data`.
 Right now, this repo does not support adding external knowledge ([K-lite](https://github.com/Computer-Vision-in-the-Wild/klite)), and not support multi-label dataset `voc-2007-classification`. We are working on these!
 
 
-# Citation
+## Citation
 
 If you find this repo useful to your project, please consider to cite UniCL or/ and ELEVATER with the folling bibs:
 
