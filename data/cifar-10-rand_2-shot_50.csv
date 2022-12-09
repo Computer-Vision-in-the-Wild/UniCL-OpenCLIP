@@ -1,0 +1,501 @@
+filepath,title,label
+./cifar_10_20211007/train/1/2519.png,a black and white photo of a automobile.,1
+./cifar_10_20211007/train/1/2193.png,a bad photo of a automobile.,1
+./cifar_10_20211007/train/6/449.png,a bad photo of the frog.,6
+./cifar_10_20211007/train/0/2381.png,a high contrast photo of the airplane.,0
+./cifar_10_20211007/train/4/924.png,a bad photo of the deer.,4
+./cifar_10_20211007/train/7/3744.png,a blurry photo of the horse.,7
+./cifar_10_20211007/train/2/1331.png,a blurry photo of the bird.,2
+./cifar_10_20211007/train/8/3529.png,a photo of a ship.,8
+./cifar_10_20211007/train/0/1101.png,a high contrast photo of the airplane.,0
+./cifar_10_20211007/train/1/3151.png,a blurry photo of the automobile.,1
+./cifar_10_20211007/train/2/2125.png,a black and white photo of a bird.,2
+./cifar_10_20211007/train/7/4995.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/8/3161.png,a blurry photo of a ship.,8
+./cifar_10_20211007/train/4/364.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/0/1573.png,a high contrast photo of a airplane.,0
+./cifar_10_20211007/train/3/2666.png,a photo of the cat.,3
+./cifar_10_20211007/train/6/1836.png,a good photo of the frog.,6
+./cifar_10_20211007/train/3/2366.png,a bad photo of a cat.,3
+./cifar_10_20211007/train/8/1930.png,a good photo of the ship.,8
+./cifar_10_20211007/train/7/4423.png,a photo of the small horse.,7
+./cifar_10_20211007/train/7/1148.png,a high contrast photo of the horse.,7
+./cifar_10_20211007/train/3/1032.png,a blurry photo of the cat.,3
+./cifar_10_20211007/train/2/2162.png,a bad photo of the bird.,2
+./cifar_10_20211007/train/9/1041.png,a black and white photo of the truck.,9
+./cifar_10_20211007/train/7/2316.png,a black and white photo of a horse.,7
+./cifar_10_20211007/train/8/864.png,a high contrast photo of the ship.,8
+./cifar_10_20211007/train/4/1896.png,a low contrast photo of the deer.,4
+./cifar_10_20211007/train/5/2169.png,a photo of a small dog.,5
+./cifar_10_20211007/train/6/1525.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/5/2110.png,a high contrast photo of the dog.,5
+./cifar_10_20211007/train/3/4766.png,a bad photo of the cat.,3
+./cifar_10_20211007/train/3/2477.png,a high contrast photo of a cat.,3
+./cifar_10_20211007/train/4/2839.png,a bad photo of a deer.,4
+./cifar_10_20211007/train/0/1002.png,a low contrast photo of a airplane.,0
+./cifar_10_20211007/train/3/1291.png,a bad photo of a cat.,3
+./cifar_10_20211007/train/9/893.png,a low contrast photo of a truck.,9
+./cifar_10_20211007/train/1/3778.png,a good photo of a automobile.,1
+./cifar_10_20211007/train/3/4541.png,a low contrast photo of the cat.,3
+./cifar_10_20211007/train/9/1737.png,a blurry photo of the truck.,9
+./cifar_10_20211007/train/7/1214.png,a photo of the big horse.,7
+./cifar_10_20211007/train/7/3796.png,a photo of a horse.,7
+./cifar_10_20211007/train/7/1193.png,a photo of the big horse.,7
+./cifar_10_20211007/train/8/1214.png,a high contrast photo of the ship.,8
+./cifar_10_20211007/train/7/4052.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/4/1347.png,a low contrast photo of the deer.,4
+./cifar_10_20211007/train/0/1577.png,a bad photo of the airplane.,0
+./cifar_10_20211007/train/8/3117.png,a high contrast photo of a ship.,8
+./cifar_10_20211007/train/2/1373.png,a photo of a bird.,2
+./cifar_10_20211007/train/2/3269.png,a black and white photo of a bird.,2
+./cifar_10_20211007/train/1/4909.png,a good photo of the automobile.,1
+./cifar_10_20211007/train/3/2140.png,a bad photo of the cat.,3
+./cifar_10_20211007/train/6/2985.png,a photo of the small frog.,6
+./cifar_10_20211007/train/8/993.png,a photo of the big ship.,8
+./cifar_10_20211007/train/6/2410.png,a low contrast photo of the frog.,6
+./cifar_10_20211007/train/3/3110.png,a blurry photo of a cat.,3
+./cifar_10_20211007/train/8/743.png,a photo of a small ship.,8
+./cifar_10_20211007/train/8/3051.png,a black and white photo of a ship.,8
+./cifar_10_20211007/train/6/693.png,a photo of a big frog.,6
+./cifar_10_20211007/train/5/515.png,a good photo of a dog.,5
+./cifar_10_20211007/train/4/3926.png,a low contrast photo of the deer.,4
+./cifar_10_20211007/train/1/3177.png,a low contrast photo of the automobile.,1
+./cifar_10_20211007/train/8/4038.png,a high contrast photo of a ship.,8
+./cifar_10_20211007/train/1/2567.png,a good photo of a automobile.,1
+./cifar_10_20211007/train/1/4054.png,a good photo of a automobile.,1
+./cifar_10_20211007/train/7/706.png,a photo of the horse.,7
+./cifar_10_20211007/train/2/1026.png,a black and white photo of a bird.,2
+./cifar_10_20211007/train/2/2703.png,a blurry photo of the bird.,2
+./cifar_10_20211007/train/2/1136.png,a photo of the big bird.,2
+./cifar_10_20211007/train/9/571.png,a photo of a small truck.,9
+./cifar_10_20211007/train/9/3762.png,a black and white photo of a truck.,9
+./cifar_10_20211007/train/8/231.png,a blurry photo of the ship.,8
+./cifar_10_20211007/train/1/2602.png,a black and white photo of the automobile.,1
+./cifar_10_20211007/train/7/4275.png,a low contrast photo of the horse.,7
+./cifar_10_20211007/train/9/2923.png,a blurry photo of a truck.,9
+./cifar_10_20211007/train/5/4404.png,a low contrast photo of the dog.,5
+./cifar_10_20211007/train/6/4359.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/8/1962.png,a bad photo of a ship.,8
+./cifar_10_20211007/train/6/698.png,a blurry photo of a frog.,6
+./cifar_10_20211007/train/6/4875.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/1/3038.png,a black and white photo of the automobile.,1
+./cifar_10_20211007/train/1/499.png,a blurry photo of the automobile.,1
+./cifar_10_20211007/train/9/3763.png,a bad photo of the truck.,9
+./cifar_10_20211007/train/6/1043.png,a high contrast photo of the frog.,6
+./cifar_10_20211007/train/9/3695.png,a good photo of the truck.,9
+./cifar_10_20211007/train/8/4144.png,a low contrast photo of the ship.,8
+./cifar_10_20211007/train/1/855.png,a good photo of the automobile.,1
+./cifar_10_20211007/train/2/2774.png,a black and white photo of the bird.,2
+./cifar_10_20211007/train/3/1787.png,a low contrast photo of a cat.,3
+./cifar_10_20211007/train/5/996.png,a bad photo of the dog.,5
+./cifar_10_20211007/train/5/3424.png,a photo of a small dog.,5
+./cifar_10_20211007/train/7/4818.png,a bad photo of a horse.,7
+./cifar_10_20211007/train/9/3611.png,a photo of the big truck.,9
+./cifar_10_20211007/train/0/2691.png,a low contrast photo of a airplane.,0
+./cifar_10_20211007/train/0/4252.png,a black and white photo of a airplane.,0
+./cifar_10_20211007/train/9/103.png,a photo of the small truck.,9
+./cifar_10_20211007/train/7/2166.png,a black and white photo of a horse.,7
+./cifar_10_20211007/train/2/2164.png,a photo of the bird.,2
+./cifar_10_20211007/train/0/1825.png,a photo of the small airplane.,0
+./cifar_10_20211007/train/3/423.png,a bad photo of the cat.,3
+./cifar_10_20211007/train/6/1563.png,a photo of the big frog.,6
+./cifar_10_20211007/train/4/4472.png,a photo of a small deer.,4
+./cifar_10_20211007/train/6/4068.png,a photo of the small frog.,6
+./cifar_10_20211007/train/1/332.png,a photo of a automobile.,1
+./cifar_10_20211007/train/3/972.png,a blurry photo of the cat.,3
+./cifar_10_20211007/train/2/3455.png,a high contrast photo of the bird.,2
+./cifar_10_20211007/train/6/1935.png,a photo of a frog.,6
+./cifar_10_20211007/train/3/1977.png,a photo of the cat.,3
+./cifar_10_20211007/train/1/1141.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/3/1913.png,a bad photo of a cat.,3
+./cifar_10_20211007/train/5/4359.png,a blurry photo of a dog.,5
+./cifar_10_20211007/train/4/3906.png,a photo of the small deer.,4
+./cifar_10_20211007/train/5/4069.png,a blurry photo of the dog.,5
+./cifar_10_20211007/train/1/3927.png,a photo of a automobile.,1
+./cifar_10_20211007/train/6/1148.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/7/1285.png,a blurry photo of the horse.,7
+./cifar_10_20211007/train/1/2314.png,a high contrast photo of the automobile.,1
+./cifar_10_20211007/train/6/3147.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/9/3183.png,a blurry photo of a truck.,9
+./cifar_10_20211007/train/1/1835.png,a bad photo of a automobile.,1
+./cifar_10_20211007/train/4/1416.png,a blurry photo of the deer.,4
+./cifar_10_20211007/train/5/361.png,a black and white photo of the dog.,5
+./cifar_10_20211007/train/5/2315.png,a blurry photo of a dog.,5
+./cifar_10_20211007/train/9/4508.png,a high contrast photo of a truck.,9
+./cifar_10_20211007/train/4/1538.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/3/2001.png,a photo of the small cat.,3
+./cifar_10_20211007/train/2/3982.png,a blurry photo of the bird.,2
+./cifar_10_20211007/train/6/4062.png,a high contrast photo of a frog.,6
+./cifar_10_20211007/train/6/4542.png,a blurry photo of a frog.,6
+./cifar_10_20211007/train/7/2241.png,a good photo of a horse.,7
+./cifar_10_20211007/train/8/4249.png,a black and white photo of a ship.,8
+./cifar_10_20211007/train/4/4593.png,a blurry photo of the deer.,4
+./cifar_10_20211007/train/7/2928.png,a photo of the small horse.,7
+./cifar_10_20211007/train/7/2647.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/1/2012.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/9/473.png,a photo of the truck.,9
+./cifar_10_20211007/train/4/2632.png,a high contrast photo of the deer.,4
+./cifar_10_20211007/train/8/790.png,a black and white photo of the ship.,8
+./cifar_10_20211007/train/3/2424.png,a photo of the cat.,3
+./cifar_10_20211007/train/6/4352.png,a photo of a big frog.,6
+./cifar_10_20211007/train/4/2237.png,a good photo of a deer.,4
+./cifar_10_20211007/train/2/1677.png,a blurry photo of the bird.,2
+./cifar_10_20211007/train/6/3312.png,a high contrast photo of the frog.,6
+./cifar_10_20211007/train/1/398.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/3/4517.png,a low contrast photo of a cat.,3
+./cifar_10_20211007/train/5/3809.png,a good photo of a dog.,5
+./cifar_10_20211007/train/6/4873.png,a photo of the frog.,6
+./cifar_10_20211007/train/1/1552.png,a black and white photo of the automobile.,1
+./cifar_10_20211007/train/2/4602.png,a photo of a bird.,2
+./cifar_10_20211007/train/0/3262.png,a photo of the airplane.,0
+./cifar_10_20211007/train/5/4788.png,a low contrast photo of a dog.,5
+./cifar_10_20211007/train/6/1078.png,a blurry photo of the frog.,6
+./cifar_10_20211007/train/4/2814.png,a photo of the big deer.,4
+./cifar_10_20211007/train/2/4646.png,a black and white photo of the bird.,2
+./cifar_10_20211007/train/7/696.png,a good photo of a horse.,7
+./cifar_10_20211007/train/3/898.png,a bad photo of a cat.,3
+./cifar_10_20211007/train/7/3288.png,a black and white photo of the horse.,7
+./cifar_10_20211007/train/9/2853.png,a good photo of the truck.,9
+./cifar_10_20211007/train/7/2424.png,a photo of the horse.,7
+./cifar_10_20211007/train/8/4184.png,a good photo of a ship.,8
+./cifar_10_20211007/train/5/1029.png,a low contrast photo of a dog.,5
+./cifar_10_20211007/train/5/662.png,a low contrast photo of the dog.,5
+./cifar_10_20211007/train/6/3673.png,a photo of the frog.,6
+./cifar_10_20211007/train/7/4973.png,a photo of a small horse.,7
+./cifar_10_20211007/train/3/3277.png,a high contrast photo of the cat.,3
+./cifar_10_20211007/train/2/593.png,a bad photo of a bird.,2
+./cifar_10_20211007/train/7/3538.png,a low contrast photo of a horse.,7
+./cifar_10_20211007/train/6/486.png,a blurry photo of the frog.,6
+./cifar_10_20211007/train/4/1119.png,a bad photo of a deer.,4
+./cifar_10_20211007/train/1/2887.png,a black and white photo of a automobile.,1
+./cifar_10_20211007/train/2/113.png,a photo of the big bird.,2
+./cifar_10_20211007/train/2/798.png,a good photo of the bird.,2
+./cifar_10_20211007/train/9/1010.png,a blurry photo of a truck.,9
+./cifar_10_20211007/train/5/2084.png,a low contrast photo of a dog.,5
+./cifar_10_20211007/train/1/497.png,a photo of a automobile.,1
+./cifar_10_20211007/train/5/186.png,a high contrast photo of a dog.,5
+./cifar_10_20211007/train/4/3121.png,a high contrast photo of a deer.,4
+./cifar_10_20211007/train/3/2983.png,a high contrast photo of a cat.,3
+./cifar_10_20211007/train/1/1376.png,a photo of a small automobile.,1
+./cifar_10_20211007/train/9/3859.png,a blurry photo of a truck.,9
+./cifar_10_20211007/train/5/3953.png,a blurry photo of a dog.,5
+./cifar_10_20211007/train/6/2631.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/9/3942.png,a photo of a truck.,9
+./cifar_10_20211007/train/3/1796.png,a black and white photo of a cat.,3
+./cifar_10_20211007/train/9/4702.png,a bad photo of a truck.,9
+./cifar_10_20211007/train/8/1713.png,a high contrast photo of the ship.,8
+./cifar_10_20211007/train/2/4331.png,a blurry photo of a bird.,2
+./cifar_10_20211007/train/0/793.png,a bad photo of the airplane.,0
+./cifar_10_20211007/train/2/3379.png,a good photo of a bird.,2
+./cifar_10_20211007/train/4/1063.png,a good photo of the deer.,4
+./cifar_10_20211007/train/4/2294.png,a high contrast photo of a deer.,4
+./cifar_10_20211007/train/1/4924.png,a blurry photo of a automobile.,1
+./cifar_10_20211007/train/1/2814.png,a black and white photo of the automobile.,1
+./cifar_10_20211007/train/1/190.png,a black and white photo of the automobile.,1
+./cifar_10_20211007/train/8/612.png,a black and white photo of the ship.,8
+./cifar_10_20211007/train/7/1126.png,a photo of a small horse.,7
+./cifar_10_20211007/train/0/1698.png,a high contrast photo of a airplane.,0
+./cifar_10_20211007/train/0/4944.png,a photo of the big airplane.,0
+./cifar_10_20211007/train/5/2594.png,a black and white photo of the dog.,5
+./cifar_10_20211007/train/2/2794.png,a low contrast photo of the bird.,2
+./cifar_10_20211007/train/7/1987.png,a high contrast photo of the horse.,7
+./cifar_10_20211007/train/1/3851.png,a photo of the automobile.,1
+./cifar_10_20211007/train/5/1074.png,a photo of a dog.,5
+./cifar_10_20211007/train/3/3817.png,a black and white photo of the cat.,3
+./cifar_10_20211007/train/6/2147.png,a high contrast photo of the frog.,6
+./cifar_10_20211007/train/5/4120.png,a blurry photo of a dog.,5
+./cifar_10_20211007/train/2/3817.png,a photo of the big bird.,2
+./cifar_10_20211007/train/6/1966.png,a photo of a small frog.,6
+./cifar_10_20211007/train/4/1880.png,a high contrast photo of the deer.,4
+./cifar_10_20211007/train/0/3679.png,a good photo of the airplane.,0
+./cifar_10_20211007/train/5/1497.png,a photo of the small dog.,5
+./cifar_10_20211007/train/9/3981.png,a low contrast photo of a truck.,9
+./cifar_10_20211007/train/5/25.png,a blurry photo of the dog.,5
+./cifar_10_20211007/train/7/2143.png,a photo of a small horse.,7
+./cifar_10_20211007/train/4/3695.png,a photo of the deer.,4
+./cifar_10_20211007/train/1/1348.png,a low contrast photo of the automobile.,1
+./cifar_10_20211007/train/8/4230.png,a high contrast photo of a ship.,8
+./cifar_10_20211007/train/8/712.png,a photo of the small ship.,8
+./cifar_10_20211007/train/5/3384.png,a photo of the small dog.,5
+./cifar_10_20211007/train/8/1536.png,a black and white photo of the ship.,8
+./cifar_10_20211007/train/7/1679.png,a low contrast photo of a horse.,7
+./cifar_10_20211007/train/8/1552.png,a black and white photo of a ship.,8
+./cifar_10_20211007/train/4/3150.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/7/1367.png,a bad photo of the horse.,7
+./cifar_10_20211007/train/5/1271.png,a photo of a big dog.,5
+./cifar_10_20211007/train/4/310.png,a photo of the deer.,4
+./cifar_10_20211007/train/7/4379.png,a black and white photo of the horse.,7
+./cifar_10_20211007/train/0/2689.png,a photo of the big airplane.,0
+./cifar_10_20211007/train/2/1277.png,a photo of a big bird.,2
+./cifar_10_20211007/train/2/2954.png,a bad photo of the bird.,2
+./cifar_10_20211007/train/9/3018.png,a good photo of the truck.,9
+./cifar_10_20211007/train/2/4806.png,a bad photo of the bird.,2
+./cifar_10_20211007/train/9/244.png,a bad photo of a truck.,9
+./cifar_10_20211007/train/7/819.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/7/3492.png,a good photo of a horse.,7
+./cifar_10_20211007/train/3/503.png,a photo of a small cat.,3
+./cifar_10_20211007/train/3/1287.png,a blurry photo of the cat.,3
+./cifar_10_20211007/train/3/215.png,a photo of the small cat.,3
+./cifar_10_20211007/train/1/3835.png,a blurry photo of the automobile.,1
+./cifar_10_20211007/train/9/2829.png,a photo of a small truck.,9
+./cifar_10_20211007/train/2/4100.png,a low contrast photo of the bird.,2
+./cifar_10_20211007/train/0/3790.png,a photo of the small airplane.,0
+./cifar_10_20211007/train/6/408.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/0/3130.png,a good photo of a airplane.,0
+./cifar_10_20211007/train/0/1443.png,a photo of a airplane.,0
+./cifar_10_20211007/train/8/2806.png,a black and white photo of the ship.,8
+./cifar_10_20211007/train/2/2029.png,a photo of a bird.,2
+./cifar_10_20211007/train/1/4243.png,a low contrast photo of the automobile.,1
+./cifar_10_20211007/train/4/3071.png,a bad photo of the deer.,4
+./cifar_10_20211007/train/1/4157.png,a photo of a automobile.,1
+./cifar_10_20211007/train/9/147.png,a low contrast photo of a truck.,9
+./cifar_10_20211007/train/8/2535.png,a blurry photo of a ship.,8
+./cifar_10_20211007/train/7/618.png,a low contrast photo of the horse.,7
+./cifar_10_20211007/train/6/1789.png,a black and white photo of the frog.,6
+./cifar_10_20211007/train/0/953.png,a bad photo of a airplane.,0
+./cifar_10_20211007/train/2/4614.png,a good photo of a bird.,2
+./cifar_10_20211007/train/7/4765.png,a bad photo of the horse.,7
+./cifar_10_20211007/train/4/2398.png,a photo of a deer.,4
+./cifar_10_20211007/train/5/4043.png,a photo of a small dog.,5
+./cifar_10_20211007/train/5/3417.png,a good photo of a dog.,5
+./cifar_10_20211007/train/8/1671.png,a black and white photo of the ship.,8
+./cifar_10_20211007/train/2/2760.png,a low contrast photo of a bird.,2
+./cifar_10_20211007/train/1/4685.png,a black and white photo of the automobile.,1
+./cifar_10_20211007/train/7/991.png,a low contrast photo of the horse.,7
+./cifar_10_20211007/train/2/342.png,a bad photo of the bird.,2
+./cifar_10_20211007/train/2/1017.png,a photo of the bird.,2
+./cifar_10_20211007/train/5/1249.png,a photo of a dog.,5
+./cifar_10_20211007/train/9/183.png,a blurry photo of the truck.,9
+./cifar_10_20211007/train/1/3496.png,a photo of a automobile.,1
+./cifar_10_20211007/train/9/1251.png,a photo of a small truck.,9
+./cifar_10_20211007/train/6/431.png,a photo of a frog.,6
+./cifar_10_20211007/train/4/4294.png,a high contrast photo of a deer.,4
+./cifar_10_20211007/train/7/60.png,a good photo of the horse.,7
+./cifar_10_20211007/train/6/3323.png,a photo of the big frog.,6
+./cifar_10_20211007/train/9/3039.png,a low contrast photo of a truck.,9
+./cifar_10_20211007/train/6/144.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/4/4510.png,a high contrast photo of the deer.,4
+./cifar_10_20211007/train/6/3801.png,a photo of the big frog.,6
+./cifar_10_20211007/train/7/3815.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/2/4709.png,a low contrast photo of the bird.,2
+./cifar_10_20211007/train/6/1429.png,a photo of the small frog.,6
+./cifar_10_20211007/train/3/1916.png,a bad photo of the cat.,3
+./cifar_10_20211007/train/6/3114.png,a low contrast photo of a frog.,6
+./cifar_10_20211007/train/5/4249.png,a photo of the small dog.,5
+./cifar_10_20211007/train/2/1007.png,a photo of the small bird.,2
+./cifar_10_20211007/train/0/2475.png,a good photo of a airplane.,0
+./cifar_10_20211007/train/3/4330.png,a photo of the small cat.,3
+./cifar_10_20211007/train/8/904.png,a photo of a big ship.,8
+./cifar_10_20211007/train/5/139.png,a photo of a big dog.,5
+./cifar_10_20211007/train/7/2507.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/3/354.png,a good photo of the cat.,3
+./cifar_10_20211007/train/9/2677.png,a black and white photo of the truck.,9
+./cifar_10_20211007/train/0/2555.png,a low contrast photo of the airplane.,0
+./cifar_10_20211007/train/8/1276.png,a photo of the small ship.,8
+./cifar_10_20211007/train/6/193.png,a blurry photo of a frog.,6
+./cifar_10_20211007/train/4/4868.png,a photo of the deer.,4
+./cifar_10_20211007/train/3/4413.png,a low contrast photo of the cat.,3
+./cifar_10_20211007/train/5/4437.png,a bad photo of the dog.,5
+./cifar_10_20211007/train/2/2488.png,a good photo of the bird.,2
+./cifar_10_20211007/train/1/4260.png,a bad photo of the automobile.,1
+./cifar_10_20211007/train/4/2662.png,a low contrast photo of a deer.,4
+./cifar_10_20211007/train/7/1618.png,a blurry photo of the horse.,7
+./cifar_10_20211007/train/4/4699.png,a black and white photo of a deer.,4
+./cifar_10_20211007/train/5/1162.png,a photo of a dog.,5
+./cifar_10_20211007/train/9/4786.png,a photo of the small truck.,9
+./cifar_10_20211007/train/3/3250.png,a low contrast photo of a cat.,3
+./cifar_10_20211007/train/8/211.png,a blurry photo of a ship.,8
+./cifar_10_20211007/train/2/1006.png,a blurry photo of the bird.,2
+./cifar_10_20211007/train/7/4859.png,a photo of a big horse.,7
+./cifar_10_20211007/train/1/904.png,a blurry photo of a automobile.,1
+./cifar_10_20211007/train/7/2356.png,a photo of a small horse.,7
+./cifar_10_20211007/train/0/843.png,a low contrast photo of the airplane.,0
+./cifar_10_20211007/train/5/2795.png,a photo of a big dog.,5
+./cifar_10_20211007/train/7/3316.png,a photo of a big horse.,7
+./cifar_10_20211007/train/0/2373.png,a bad photo of a airplane.,0
+./cifar_10_20211007/train/8/1364.png,a photo of a small ship.,8
+./cifar_10_20211007/train/7/2330.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/6/4940.png,a good photo of a frog.,6
+./cifar_10_20211007/train/2/4274.png,a high contrast photo of a bird.,2
+./cifar_10_20211007/train/7/1357.png,a high contrast photo of the horse.,7
+./cifar_10_20211007/train/5/1466.png,a black and white photo of a dog.,5
+./cifar_10_20211007/train/2/1658.png,a low contrast photo of the bird.,2
+./cifar_10_20211007/train/1/4588.png,a photo of the small automobile.,1
+./cifar_10_20211007/train/0/3275.png,a photo of a big airplane.,0
+./cifar_10_20211007/train/8/158.png,a bad photo of a ship.,8
+./cifar_10_20211007/train/7/4102.png,a photo of a horse.,7
+./cifar_10_20211007/train/3/4457.png,a blurry photo of the cat.,3
+./cifar_10_20211007/train/2/4962.png,a photo of a small bird.,2
+./cifar_10_20211007/train/7/2912.png,a photo of the small horse.,7
+./cifar_10_20211007/train/9/1954.png,a photo of a truck.,9
+./cifar_10_20211007/train/9/353.png,a photo of the small truck.,9
+./cifar_10_20211007/train/8/633.png,a photo of a big ship.,8
+./cifar_10_20211007/train/2/542.png,a good photo of a bird.,2
+./cifar_10_20211007/train/3/2244.png,a blurry photo of a cat.,3
+./cifar_10_20211007/train/0/373.png,a blurry photo of a airplane.,0
+./cifar_10_20211007/train/8/3120.png,a high contrast photo of a ship.,8
+./cifar_10_20211007/train/3/506.png,a high contrast photo of a cat.,3
+./cifar_10_20211007/train/9/2547.png,a photo of the big truck.,9
+./cifar_10_20211007/train/1/325.png,a low contrast photo of the automobile.,1
+./cifar_10_20211007/train/7/1948.png,a blurry photo of the horse.,7
+./cifar_10_20211007/train/6/3917.png,a blurry photo of the frog.,6
+./cifar_10_20211007/train/1/876.png,a photo of a small automobile.,1
+./cifar_10_20211007/train/8/1538.png,a black and white photo of a ship.,8
+./cifar_10_20211007/train/1/379.png,a low contrast photo of a automobile.,1
+./cifar_10_20211007/train/3/4780.png,a photo of the small cat.,3
+./cifar_10_20211007/train/6/309.png,a photo of the frog.,6
+./cifar_10_20211007/train/1/3413.png,a photo of a small automobile.,1
+./cifar_10_20211007/train/9/3681.png,a black and white photo of the truck.,9
+./cifar_10_20211007/train/4/4730.png,a good photo of the deer.,4
+./cifar_10_20211007/train/7/4167.png,a photo of the horse.,7
+./cifar_10_20211007/train/5/3841.png,a high contrast photo of the dog.,5
+./cifar_10_20211007/train/9/438.png,a photo of a big truck.,9
+./cifar_10_20211007/train/0/2328.png,a bad photo of the airplane.,0
+./cifar_10_20211007/train/1/1937.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/9/2908.png,a bad photo of the truck.,9
+./cifar_10_20211007/train/4/396.png,a black and white photo of a deer.,4
+./cifar_10_20211007/train/9/286.png,a high contrast photo of a truck.,9
+./cifar_10_20211007/train/2/228.png,a black and white photo of the bird.,2
+./cifar_10_20211007/train/3/3488.png,a black and white photo of the cat.,3
+./cifar_10_20211007/train/3/1173.png,a photo of the small cat.,3
+./cifar_10_20211007/train/4/2649.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/8/2622.png,a photo of a small ship.,8
+./cifar_10_20211007/train/6/1901.png,a black and white photo of the frog.,6
+./cifar_10_20211007/train/3/2139.png,a high contrast photo of the cat.,3
+./cifar_10_20211007/train/1/134.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/7/264.png,a blurry photo of a horse.,7
+./cifar_10_20211007/train/3/2701.png,a photo of a small cat.,3
+./cifar_10_20211007/train/2/2134.png,a high contrast photo of a bird.,2
+./cifar_10_20211007/train/3/892.png,a bad photo of the cat.,3
+./cifar_10_20211007/train/1/4966.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/9/1244.png,a blurry photo of the truck.,9
+./cifar_10_20211007/train/0/582.png,a photo of a small airplane.,0
+./cifar_10_20211007/train/8/2187.png,a photo of a big ship.,8
+./cifar_10_20211007/train/7/1076.png,a black and white photo of a horse.,7
+./cifar_10_20211007/train/1/4621.png,a good photo of a automobile.,1
+./cifar_10_20211007/train/3/4614.png,a good photo of the cat.,3
+./cifar_10_20211007/train/8/2727.png,a photo of the big ship.,8
+./cifar_10_20211007/train/9/4210.png,a high contrast photo of a truck.,9
+./cifar_10_20211007/train/3/4329.png,a bad photo of a cat.,3
+./cifar_10_20211007/train/9/1479.png,a photo of the small truck.,9
+./cifar_10_20211007/train/2/2276.png,a blurry photo of a bird.,2
+./cifar_10_20211007/train/0/4613.png,a blurry photo of a airplane.,0
+./cifar_10_20211007/train/6/1526.png,a photo of a small frog.,6
+./cifar_10_20211007/train/4/82.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/7/4711.png,a photo of a small horse.,7
+./cifar_10_20211007/train/6/4423.png,a good photo of a frog.,6
+./cifar_10_20211007/train/2/4327.png,a good photo of the bird.,2
+./cifar_10_20211007/train/3/509.png,a good photo of the cat.,3
+./cifar_10_20211007/train/6/4051.png,a photo of a big frog.,6
+./cifar_10_20211007/train/8/1876.png,a low contrast photo of the ship.,8
+./cifar_10_20211007/train/9/631.png,a good photo of a truck.,9
+./cifar_10_20211007/train/5/3437.png,a black and white photo of a dog.,5
+./cifar_10_20211007/train/1/4889.png,a photo of the automobile.,1
+./cifar_10_20211007/train/7/1020.png,a blurry photo of the horse.,7
+./cifar_10_20211007/train/5/1731.png,a bad photo of a dog.,5
+./cifar_10_20211007/train/4/2812.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/5/2221.png,a photo of a small dog.,5
+./cifar_10_20211007/train/2/2212.png,a photo of the small bird.,2
+./cifar_10_20211007/train/4/1206.png,a good photo of the deer.,4
+./cifar_10_20211007/train/8/4018.png,a photo of the small ship.,8
+./cifar_10_20211007/train/9/731.png,a high contrast photo of the truck.,9
+./cifar_10_20211007/train/1/3240.png,a photo of a automobile.,1
+./cifar_10_20211007/train/9/4018.png,a photo of a big truck.,9
+./cifar_10_20211007/train/1/2287.png,a photo of the small automobile.,1
+./cifar_10_20211007/train/2/684.png,a photo of the bird.,2
+./cifar_10_20211007/train/2/4488.png,a blurry photo of a bird.,2
+./cifar_10_20211007/train/6/713.png,a high contrast photo of the frog.,6
+./cifar_10_20211007/train/4/611.png,a photo of a small deer.,4
+./cifar_10_20211007/train/9/4999.png,a bad photo of a truck.,9
+./cifar_10_20211007/train/5/481.png,a black and white photo of the dog.,5
+./cifar_10_20211007/train/6/1691.png,a good photo of the frog.,6
+./cifar_10_20211007/train/9/2436.png,a blurry photo of the truck.,9
+./cifar_10_20211007/train/5/2249.png,a bad photo of a dog.,5
+./cifar_10_20211007/train/6/4856.png,a bad photo of the frog.,6
+./cifar_10_20211007/train/6/2447.png,a bad photo of a frog.,6
+./cifar_10_20211007/train/4/2815.png,a photo of the big deer.,4
+./cifar_10_20211007/train/3/4141.png,a blurry photo of the cat.,3
+./cifar_10_20211007/train/8/2957.png,a high contrast photo of a ship.,8
+./cifar_10_20211007/train/2/3636.png,a bad photo of a bird.,2
+./cifar_10_20211007/train/3/3020.png,a good photo of a cat.,3
+./cifar_10_20211007/train/9/2234.png,a black and white photo of the truck.,9
+./cifar_10_20211007/train/4/3020.png,a black and white photo of the deer.,4
+./cifar_10_20211007/train/2/3302.png,a blurry photo of the bird.,2
+./cifar_10_20211007/train/6/3241.png,a photo of the big frog.,6
+./cifar_10_20211007/train/9/1518.png,a high contrast photo of a truck.,9
+./cifar_10_20211007/train/6/4296.png,a good photo of the frog.,6
+./cifar_10_20211007/train/9/1226.png,a low contrast photo of the truck.,9
+./cifar_10_20211007/train/3/1826.png,a good photo of a cat.,3
+./cifar_10_20211007/train/5/2735.png,a high contrast photo of a dog.,5
+./cifar_10_20211007/train/2/954.png,a photo of a small bird.,2
+./cifar_10_20211007/train/8/2862.png,a black and white photo of the ship.,8
+./cifar_10_20211007/train/3/84.png,a bad photo of a cat.,3
+./cifar_10_20211007/train/4/3920.png,a photo of the small deer.,4
+./cifar_10_20211007/train/6/2412.png,a bad photo of the frog.,6
+./cifar_10_20211007/train/3/3757.png,a blurry photo of a cat.,3
+./cifar_10_20211007/train/4/964.png,a good photo of a deer.,4
+./cifar_10_20211007/train/5/2442.png,a photo of a big dog.,5
+./cifar_10_20211007/train/1/3732.png,a high contrast photo of a automobile.,1
+./cifar_10_20211007/train/2/1533.png,a bad photo of the bird.,2
+./cifar_10_20211007/train/8/4170.png,a good photo of a ship.,8
+./cifar_10_20211007/train/5/908.png,a high contrast photo of a dog.,5
+./cifar_10_20211007/train/6/4407.png,a blurry photo of the frog.,6
+./cifar_10_20211007/train/1/4076.png,a bad photo of a automobile.,1
+./cifar_10_20211007/train/4/4906.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/8/603.png,a blurry photo of the ship.,8
+./cifar_10_20211007/train/5/1268.png,a high contrast photo of the dog.,5
+./cifar_10_20211007/train/4/3011.png,a photo of the deer.,4
+./cifar_10_20211007/train/8/1875.png,a bad photo of the ship.,8
+./cifar_10_20211007/train/9/4072.png,a photo of the small truck.,9
+./cifar_10_20211007/train/3/4697.png,a bad photo of the cat.,3
+./cifar_10_20211007/train/4/3504.png,a blurry photo of a deer.,4
+./cifar_10_20211007/train/3/551.png,a good photo of the cat.,3
+./cifar_10_20211007/train/0/2516.png,a good photo of the airplane.,0
+./cifar_10_20211007/train/5/4001.png,a photo of the big dog.,5
+./cifar_10_20211007/train/4/4054.png,a photo of the deer.,4
+./cifar_10_20211007/train/9/792.png,a photo of the small truck.,9
+./cifar_10_20211007/train/0/1217.png,a bad photo of a airplane.,0
+./cifar_10_20211007/train/5/4009.png,a bad photo of the dog.,5
+./cifar_10_20211007/train/3/1295.png,a blurry photo of a cat.,3
+./cifar_10_20211007/train/1/3213.png,a blurry photo of the automobile.,1
+./cifar_10_20211007/train/5/722.png,a low contrast photo of the dog.,5
+./cifar_10_20211007/train/4/4169.png,a high contrast photo of a deer.,4
+./cifar_10_20211007/train/0/2667.png,a bad photo of a airplane.,0
+./cifar_10_20211007/train/5/4483.png,a low contrast photo of a dog.,5
+./cifar_10_20211007/train/5/4041.png,a bad photo of the dog.,5
+./cifar_10_20211007/train/8/18.png,a high contrast photo of the ship.,8
+./cifar_10_20211007/train/5/4282.png,a photo of the big dog.,5
+./cifar_10_20211007/train/4/4214.png,a high contrast photo of a deer.,4
+./cifar_10_20211007/train/4/4997.png,a good photo of a deer.,4
+./cifar_10_20211007/train/9/3849.png,a photo of the small truck.,9
+./cifar_10_20211007/train/9/4069.png,a low contrast photo of a truck.,9
+./cifar_10_20211007/train/8/2566.png,a high contrast photo of a ship.,8
+./cifar_10_20211007/train/8/1291.png,a bad photo of the ship.,8
+./cifar_10_20211007/train/4/1112.png,a good photo of the deer.,4
+./cifar_10_20211007/train/5/2833.png,a bad photo of the dog.,5
+./cifar_10_20211007/train/8/2570.png,a photo of a ship.,8
+./cifar_10_20211007/train/8/4552.png,a low contrast photo of a ship.,8
+./cifar_10_20211007/train/4/2444.png,a photo of the big deer.,4
+./cifar_10_20211007/train/0/4275.png,a blurry photo of the airplane.,0
+./cifar_10_20211007/train/4/1207.png,a bad photo of a deer.,4
+./cifar_10_20211007/train/0/3678.png,a high contrast photo of a airplane.,0
+./cifar_10_20211007/train/0/766.png,a blurry photo of the airplane.,0
+./cifar_10_20211007/train/8/2659.png,a low contrast photo of the ship.,8
+./cifar_10_20211007/train/8/3165.png,a low contrast photo of a ship.,8
+./cifar_10_20211007/train/0/111.png,a black and white photo of a airplane.,0
+./cifar_10_20211007/train/0/4891.png,a photo of a small airplane.,0
+./cifar_10_20211007/train/0/3682.png,a blurry photo of a airplane.,0
+./cifar_10_20211007/train/0/3839.png,a blurry photo of the airplane.,0
+./cifar_10_20211007/train/0/4805.png,a black and white photo of the airplane.,0
+./cifar_10_20211007/train/0/4294.png,a blurry photo of a airplane.,0
+./cifar_10_20211007/train/0/1458.png,a photo of a airplane.,0
+./cifar_10_20211007/train/0/3858.png,a low contrast photo of the airplane.,0
+./cifar_10_20211007/train/0/1741.png,a high contrast photo of the airplane.,0
+./cifar_10_20211007/train/0/3952.png,a low contrast photo of the airplane.,0
+./cifar_10_20211007/train/0/3179.png,a low contrast photo of the airplane.,0
+./cifar_10_20211007/train/0/273.png,a good photo of a airplane.,0
+./cifar_10_20211007/train/0/2339.png,a high contrast photo of a airplane.,0
+./cifar_10_20211007/train/0/4836.png,a black and white photo of the airplane.,0
+./cifar_10_20211007/train/0/4721.png,a blurry photo of the airplane.,0
+./cifar_10_20211007/train/0/1979.png,a blurry photo of the airplane.,0
+./cifar_10_20211007/train/0/3083.png,a photo of a airplane.,0
