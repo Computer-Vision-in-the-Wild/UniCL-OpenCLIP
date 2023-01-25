@@ -65,7 +65,7 @@ python -m training.main \
     --report-to wandb \
     --csv-img-key filepath \
     --csv-caption-key  title \
-    --csv-label-key labels \
+    --csv-label-key label \
     --csv-separator "," \
     --warmup 500 \
     --batch-size 32 \
